@@ -1,2 +1,0 @@
-# tuongAnime
-webAnime
